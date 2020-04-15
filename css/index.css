@@ -297,5 +297,16 @@ header .space {
 .content-destination img {
   margin-bottom: 3%;
   border-radius: 5%;
-  border-bottom: 3px dashed #C0C0C0;
+}
+.content-pick {
+  margin-top: 2%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content-pick .destination {
+  margin-left: 5%;
+}
+.content-pick .destination p {
+  width: 50%;
 }
