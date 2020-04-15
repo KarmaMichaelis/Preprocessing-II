@@ -252,3 +252,34 @@ header p {
 header .space {
   margin: 3% 0;
 }
+.content-section {
+  width: 100%;
+  margin-top: 3%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content-section .text-content {
+  width: 30%;
+  margin-right: 3%;
+}
+.content-section .img1 {
+  width: 60%;
+  border-radius: 5%;
+}
+.inverse-content {
+  width: 100%;
+  margin-top: 3%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 3px dashed #C0C0C0;
+}
+.inverse-content .text-content {
+  width: 30%;
+  margin-right: 3%;
+}
+.inverse-content .img-fluid {
+  width: 60%;
+  border-radius: 5%;
+}
