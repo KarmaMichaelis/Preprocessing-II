@@ -168,6 +168,23 @@ img {
   width: 100%;
   margin: 0 auto;
 }
+.Nav {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 3%;
+  margin-top: 2%;
+}
+.Nav nav {
+  width: 70%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.Nav nav a {
+  color: #212529;
+  text-decoration: none;
+  font-size: 1.6rem;
+  margin-top: 2%;
+}
 .footer {
   width: 100%;
   border-top: 2px dashed silver;
