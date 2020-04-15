@@ -242,3 +242,13 @@ img {
   width: 30%;
   margin-bottom: 30px;
 }
+header .bus {
+  padding-top: 10px;
+  border-top: 3px dashed #C0C0C0;
+}
+header p {
+  border-bottom: 3px dashed #C0C0C0;
+}
+header .space {
+  margin: 3% 0;
+}
